@@ -24,4 +24,4 @@ This Power BI project analyzes four years of store sales data for EmporiUm, a vi
 - Business Analysis
 - Dashboard Design
 
-- Here is the link to my video: https://yearuptemp-my.sharepoint.com/:v:/g/personal/saraya_my_yearupunited_org/IQBqlq8tuaAXQ40TC1SwjBvWAfdPXWZY-gM6EoL8cVflUx8?e=F5KDz6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- Here is the link to my video: https://yearuptemp-my.sharepoint.com/:v:/g/personal/saraya_my_yearupunited_org/IQBkKoN9EdG6TJRR6kdFDGRmAUKejGPEEwnYawjmXwtqWAM?e=0ZYS9N&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
